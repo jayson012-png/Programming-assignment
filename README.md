@@ -14,3 +14,6 @@ username= admin_jhb/cpt/dbn
 password= admin123
 # lecture
 you register your own logins
+
+# Repository link
+https://github.com/jayson012-png/Programming-assignment
